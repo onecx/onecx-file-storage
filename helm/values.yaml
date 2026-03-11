@@ -1,0 +1,11 @@
+deployment:
+  svc: true
+
+product:
+  info:
+    data:
+      description: "OneCX File Storage"
+      imageUrl: ""
+      iconName: "lock"
+      displayName: "OneCX File Storage"
+      basePath: "/file-storage"
