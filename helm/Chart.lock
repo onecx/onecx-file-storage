@@ -4,6 +4,6 @@ dependencies:
   version: 0.4.0
 - name: onecx-file-storage-svc
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.50
-digest: sha256:b65510f7b857d5e2a76a9a23d207c3495ed9ed981ca5de5303a090b0d0f76e96
-generated: "2026-10-01T08:05:36.692999813Z"
+  version: 0.0.0-rc.51
+digest: sha256:0335d44a9bd8bdbaa346ea2acdb952d1e96b46ac25a296339618ff239bb296a5
+generated: "2026-10-02T15:09:26.408077565Z"
